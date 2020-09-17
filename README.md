@@ -6,4 +6,6 @@ There is a column designated for Ticker symbol, Yearly Change, Percent Change an
 #Please view the FinalScript, to see results for all worsheets at once.
 
 There is also script for:
-
+Ticker
+Volume
+Percent Change
